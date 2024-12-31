@@ -262,6 +262,7 @@ let
                 (subattr "port" typeInt)
                 (subattr "function" typeInt)
                 (subattr "multifunction" typeBoolOnOff)
+                (subattr "device" typeInt)
               ]
               [ ];
             targetelem = subelem "target"
